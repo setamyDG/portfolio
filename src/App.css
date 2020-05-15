@@ -1,0 +1,50 @@
+.nav-bar {
+    width: 100%;
+    background-color: transparent;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    position: fixed;
+    top: 0;
+}
+
+.nav-bar > .active {
+    background-color: red;
+    text-align: center;
+    color: white;
+    height: 6rem;
+    margin-left: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-item {
+    margin: 20px;
+    color: white
+}
+
+.home{
+    height: 100vh;
+    top: 0;
+    background: url('https://images.unsplash.com/photo-1532289986294-16d2a6c145f3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+    background-repeat: no-repeat;
+    background-size: 100% 60vh;
+
+}
+
+.contact {
+    height: 100vh;
+    background-color: green;
+}
+
+.about-me {
+    height: 100vh;
+    background-color: purple;
+}
+
+.portfolio {
+    height: 100vh;
+    background-color: white;
+}

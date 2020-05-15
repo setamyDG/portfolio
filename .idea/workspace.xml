@@ -2,12 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="986c21b6-ccbd-4687-a2ec-c3309ff0f1ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/Navigation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/Navigation.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItem/NavigationItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItem/NavigationItem.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/AboutMe/AboutMe.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/Contact/Contact.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/Home/Home.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/Portfolio/Portfolio.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navigation/Navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/Navigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navigation/Navigation.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/Navigation.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/AboutMe/AboutMe.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/AboutMe/AboutMe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/Contact/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Contact/Contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/Portfolio/Portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Portfolio/Portfolio.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589550398275</updated>
-      <workItem from="1589550400583" duration="1428000" />
+      <workItem from="1589550400583" duration="8796000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1589550457877</created>
@@ -61,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589550457877</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added a structure of the project">
+      <created>1589551936351</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589551936351</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,16 +87,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="added a structure of the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a structure of the project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="501" y="37" key="CommitChangelistDialog2" timestamp="1589550457162">
+    <state x="501" y="37" key="CommitChangelistDialog2" timestamp="1589551935854">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
-    <state x="501" y="37" key="CommitChangelistDialog2/0.0.3840.1040@0.0.3840.1040" timestamp="1589550457162" />
-    <state x="470" y="256" key="Vcs.Push.Dialog.v2" timestamp="1589550468812">
+    <state x="501" y="37" key="CommitChangelistDialog2/0.0.3840.1040@0.0.3840.1040" timestamp="1589551935854" />
+    <state x="470" y="256" key="Vcs.Push.Dialog.v2" timestamp="1589551950239">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
-    <state x="470" y="256" key="Vcs.Push.Dialog.v2/0.0.3840.1040@0.0.3840.1040" timestamp="1589550468812" />
+    <state x="470" y="256" key="Vcs.Push.Dialog.v2/0.0.3840.1040@0.0.3840.1040" timestamp="1589551950239" />
   </component>
 </project>
