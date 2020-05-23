@@ -2,7 +2,9 @@
      margin-left: 25px;
      color: white;
      width: 6rem;
+     font-family: "Russo One";
+    text-shadow: black 0.1em 0.1em 0.2em
  }
-.Link >.active {
-    border-bottom: 5px solid aqua;
+.Link:hover {
+    cursor: pointer;
 }

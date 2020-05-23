@@ -1,0 +1,12 @@
+.DateHome{
+    margin-right: 75%;
+    font-size: 25px;
+    font-family: "Russo One";
+    color: white;
+}
+
+.TimeHome{
+    font-size: 120px;
+    color: #e43f5a;
+    opacity: 1;
+}

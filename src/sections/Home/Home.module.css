@@ -1,4 +1,33 @@
-.Home {
+.HomeContainer {
     height: 100vh;
-    background-color: red;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-flow: column;
+}
+
+.HomeHeader {
+    height: 70vh;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: absolute;
+    z-index: -1;
+    background: url("../../assets/images/bg.jpeg") center center no-repeat;
+    backdrop-filter: blur(3px);
+    background-position-y: 80%;
+}
+
+.HomeHeader::before{
+    content: '';
+    position: fixed;
+    left:0;
+    bottom: 0 ;
+    width: 100%;
+    height: 11rem;
+    background: url("https://raw.githubusercontent.com/jlop007/outdoors-website/master/tours/images/wave-large.png") center no-repeat;
+    background-size: cover;
+    z-index: 1;
 }

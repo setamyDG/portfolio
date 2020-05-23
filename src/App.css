@@ -1,6 +1,5 @@
 .nav-bar {
     width: 100%;
-    background-color: transparent;
     align-items: center;
     text-align: center;
     justify-content: center;
@@ -8,9 +7,8 @@
     position: fixed;
     top: 0;
 }
-
 .nav-bar > .active {
-    background-color: red;
+    background-color: #e43f5a;
     text-align: center;
     color: white;
     height: 6rem;
@@ -20,31 +18,98 @@
     align-items: center;
 }
 
+.icon-container {
+    margin-left: 4rem;
+}
+
 .nav-item {
     margin: 20px;
     color: white
 }
 
-.home{
-    height: 100vh;
-    top: 0;
-    background: url('https://images.unsplash.com/photo-1532289986294-16d2a6c145f3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
-    background-repeat: no-repeat;
-    background-size: 100% 60vh;
-
+.logo{
+    font-size: 20px;
+    color: white;
+    font-family: Monoton;
+    animation: opacity ease-in 1s;
+    filter: drop-shadow(10px 0 0.75rem #e43f5a);
 }
 
-.contact {
-    height: 100vh;
-    background-color: green;
+.first-icon {
+    margin-right: 5px;
+    color: white;
+    filter: drop-shadow(0 0 0.75rem #e43f5a);
 }
 
-.about-me {
-    height: 100vh;
-    background-color: purple;
+.next-icon {
+    margin-left:20px;
+    margin-right: 5px;
+    color: white;
+    filter: drop-shadow(0 0 0.75rem #e43f5a);
 }
 
-.portfolio {
+.contact-container {
     height: 100vh;
-    background-color: white;
+    width: 100%;
+    background: url("https://wallpapersmug.com/download/3840x2160/6bf656/red-dead-redemption-2-silhouette-art.jpg") center center no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+}
+.contact-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 70vh;
+    flex-flow: column;
+    margin-top: 5rem;
+}
+.title {
+    color: #e43f5a;
+    font-size: 180px;
+    font-family: Monoton;
+    margin-left: 55%;
+    border: 15px solid #e43f5a;
+    backdrop-filter: blur(4px) saturate(30%);
+    box-shadow: 0 0 5px 5px black;
+}
+.download {
+    text-decoration: none;
+}
+
+.button-link {
+    background: #e43f5a;
+    width: 125px;
+    height: 40px;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    justify-content: center;
+    display: flex;
+    box-shadow: 0 4px 5px rgba(0,0,0, .3);
+    font-size: 13px;
+}
+.button-container {
+    display: flex;
+    align-items: center;
+    font-family: "Russo One";
+    justify-content: center;
+}
+.button-link:hover {
+    cursor: pointer;
+    box-shadow: 0 5px 5px rgba(0,0,0, .5);
+}
+.link {
+    margin-left: 25px;
+    color: white;
+    width: 6rem;
+    font-family: "Russo One";
+    text-shadow: black 0.1em 0.1em 0.2em
+}
+.link:hover {
+    cursor: pointer;
 }

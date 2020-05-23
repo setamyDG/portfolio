@@ -2,23 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="986c21b6-ccbd-4687-a2ec-c3309ff0f1ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItem/NavigationItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItem/NavigationItem.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/AboutMe/AboutMe.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/Contact/Contact.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/Home/Home.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/Portfolio/Portfolio.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/CurrencyAPP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/MoviesAPP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/bg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/deer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/fitbookAPP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/iplantsAPP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/unityAPP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CustomSwiper/CustomSwiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CustomSwiper/CustomSwiper.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CustomSwiper/Slide/SwiperSlide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DateTime/DateTime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DateTime/DateTime.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DescriptionContainer/DescriptionContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DescriptionContainer/DescriptionContainer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MirrorContainer/MirrorContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MirrorContainer/MirrorContainer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/files/CV-Daniel Gola-Junior-React-Developer.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/files/List-Motywacyjny.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Navigation/Navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/Navigation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Navigation/Navigation.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/Navigation.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navigation/NavigationItem/NavigationItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItem/NavigationItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navigation/NavigationItem/NavigationItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItem/NavigationItem.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sections/AboutMe/AboutMe.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/AboutMe/AboutMe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/AboutMe/AboutMe.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/AboutMe/AboutMe.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sections/Contact/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Contact/Contact.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sections/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/Home/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Home/Home.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sections/Portfolio/Portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Portfolio/Portfolio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/Portfolio/Portfolio.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Portfolio/Portfolio.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +67,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/files" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="ts.external.directory.path" value="F:\JetBrains\WebStorm 2019.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Projects\React\portfolio\public\files" />
+      <recent name="F:\Projects\React\portfolio\src\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Projects\React\portfolio\src" />
+      <recent name="F:\Projects\React\portfolio\src\components\CustomSwiper\Slide" />
+      <recent name="F:\Projects\React\portfolio\src\assets\images" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -63,7 +100,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589550398275</updated>
-      <workItem from="1589550400583" duration="8796000" />
+      <workItem from="1589550400583" duration="14877000" />
+      <workItem from="1589752202386" duration="10378000" />
+      <workItem from="1589805877750" duration="3277000" />
+      <workItem from="1589809176383" duration="19580000" />
+      <workItem from="1589964058827" duration="9784000" />
+      <workItem from="1589976101196" duration="135000" />
+      <workItem from="1590066301034" duration="14381000" />
+      <workItem from="1590223788613" duration="1595000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1589550457877</created>
@@ -79,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589551936351</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added smooth scroll navigation in project">
+      <created>1589559229564</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589559229564</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,16 +139,29 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="added a structure of the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="added a structure of the project" />
+    <MESSAGE value="added smooth scroll navigation in project" />
+    <option name="LAST_COMMIT_MESSAGE" value="added smooth scroll navigation in project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="501" y="37" key="CommitChangelistDialog2" timestamp="1589551935854">
+    <state x="691" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590072326799">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
-    <state x="501" y="37" key="CommitChangelistDialog2/0.0.3840.1040@0.0.3840.1040" timestamp="1589551935854" />
-    <state x="470" y="256" key="Vcs.Push.Dialog.v2" timestamp="1589551950239">
+    <state x="691" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3840.1040@0.0.3840.1040" timestamp="1590072326799" />
+    <state x="501" y="37" key="CommitChangelistDialog2" timestamp="1589559228973">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
-    <state x="470" y="256" key="Vcs.Push.Dialog.v2/0.0.3840.1040@0.0.3840.1040" timestamp="1589551950239" />
+    <state x="501" y="37" key="CommitChangelistDialog2/0.0.3840.1040@0.0.3840.1040" timestamp="1589559228973" />
+    <state x="462" y="162" key="SettingsEditor" timestamp="1590067301659">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state x="462" y="162" key="SettingsEditor/0.0.3840.1040@0.0.3840.1040" timestamp="1590067301659" />
+    <state x="470" y="256" key="Vcs.Push.Dialog.v2" timestamp="1589559235063">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state x="470" y="256" key="Vcs.Push.Dialog.v2/0.0.3840.1040@0.0.3840.1040" timestamp="1589559235063" />
+    <state x="621" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1590225051335">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state x="621" y="228" width="672" height="678" key="search.everywhere.popup/0.0.3840.1040@0.0.3840.1040" timestamp="1590225051335" />
   </component>
 </project>

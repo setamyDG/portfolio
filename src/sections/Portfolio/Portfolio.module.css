@@ -1,4 +1,19 @@
 .Portfolio {
     height: 100vh;
-    background-color: aqua;
+    background: url("https://images8.alphacoders.com/679/679478.jpg") center center no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    flex-flow: column;
+}
+
+.PortfolioContainer {
+    align-self: center;
+    display: flex;
+    flex-flow: row;
+    height: 35rem;
+    width: 90%;
+    margin-top: 5rem;
 }

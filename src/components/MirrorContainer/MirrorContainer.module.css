@@ -1,0 +1,111 @@
+.MirrorContainer {
+    width: 50rem;
+    height: 75%;
+    box-shadow: 0 5px 25px rgba(0,0,0, .5);
+    color: #000;
+    margin-top: 8rem;
+    border-top: 1px solid white;
+    border-right: 1px solid white;
+    margin-bottom: 25px;
+    animation: opacity ease-in 1s;
+}
+
+.MirrorTopContainer {
+    width: 100%;
+    height: 55%;
+    background-color: transparent;
+    align-items: center;
+}
+
+.MirrorBottomContainer {
+    width: 100%;
+    height: 45%;
+    flex-flow: row;
+    display: flex;
+}
+
+.MirrorBottomContainerLeft {
+    width: 50%;
+    height: 100%;
+}
+
+.MirrorBottomContainerRight {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+}
+
+.Title {
+    color: white;
+    font-size: 35px;
+    font-family: "Monoton";
+    margin-top: 15px;
+}
+
+.Subtitle {
+    font-size: 18px;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Russo One';
+    margin-top: -20px;
+}
+
+.SubtitleSecond {
+    font-size: 16px;
+    color: #e43f5a;
+    text-transform: uppercase;
+    font-family: 'Russo One';
+    text-align: justify;
+    margin-left: 80px;
+    margin-top: 3.5rem;
+}
+
+.Description {
+    color: white;
+    text-align: justify;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 50px;
+    font-family: "Russo One";
+    font-size: 16px;
+    margin-bottom: 40px;
+}
+
+.DescriptionSecond {
+    color: #e43f5a;
+    text-align: justify;
+    margin-left: 80px;
+    width: 300px;
+    font-family: "Russo One";
+    font-size: 14px;
+}
+
+.Avatar {
+    width: 220px;
+    height: 200px;
+    background: url("../../assets/images/deer.png") center center no-repeat;
+    background-size: 220px, 220px;
+    margin-bottom: -25px;
+}
+
+.Name {
+    font-family: "Russo One";
+    color: black;
+    border-bottom: 1px solid red;
+    font-size: 20px;
+}
+
+@keyframes opacity {
+    0%{
+        opacity: 0
+    }
+    50%{
+        opacity: 0.5
+    }
+    100%{
+        opacity: 1
+    }
+}
