@@ -25,6 +25,7 @@ const CustomSwiper = () => {
           title="THE MOVIE DB APPLICATION"
           subtitle="REACT-NATIVE"
           description="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unch"
+          href="https://github.com/setamyDG/moviesApp"
         />
       </div>
       <div>
@@ -34,6 +35,7 @@ const CustomSwiper = () => {
           title="CURRENCY RATERS APPLICATION"
           subtitle="REACT-NATIVE"
           description="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unch"
+          href="https://github.com/setamyDG/CurrencyRates"
         />
       </div>
       <div>
@@ -43,6 +45,7 @@ const CustomSwiper = () => {
           title="FITBOOK"
           subtitle="REACT-NATIVE"
           description="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unch"
+          href="https://github.com/setamyDG/react-native-testFitbook"
         />
       </div>
       <div>
@@ -52,6 +55,7 @@ const CustomSwiper = () => {
           title="IPLANTS APPLICATION / (UNIVERSITY PROJECT)"
           subtitle="REACT-NATIVE"
           description="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unch"
+          href="https://github.com/setamyDG/ipApp"
         />
       </div>
       <div>

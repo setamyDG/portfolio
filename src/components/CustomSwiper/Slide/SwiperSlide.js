@@ -11,7 +11,9 @@ const SwiperSlide = (props) => (
       <h1 className={classes.AppTitle}>{props.title}</h1>
       <p className={classes.AppSubtitle}>{props.subtitle}</p>
       <p className={classes.AppDescription}>{props.description}</p>
-      <Button variant="contained" color="secondary">GITHUB</Button>
+      <a target="_blank" rel="noopener noreferrer" href={props.href} className={classes.Redirect}>
+        <Button variant="contained" color="secondary">GITHUB</Button>
+      </a>
     </div>
   </div>
 );

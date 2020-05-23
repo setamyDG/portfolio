@@ -14,13 +14,13 @@ const DescriptionContainer = () => (
       <div className={classes.DescriptionContainerRightUpper}>
         <div className={classes.DescriptionContainerRightUpper2}>
           <FontAwesomeIcon icon={faFileDownload} className={classes.FileIcon} size="6x" />
-          <a className="download" href="../../files/List-Motywacyjny.pdf" download target="_blank">
+          <a className={classes.Redirect} href="../../files/List-Motywacyjny.pdf" download target="_blank">
             <Button variant="contained" color="secondary">DOWNLOAD MY COVER LETTER</Button>
           </a>
         </div>
         <div className={classes.DescriptionContainerRightUpper3}>
           <FontAwesomeIcon icon={faFileDownload} className={classes.FileIcon} size="6x" />
-          <a className="download" href="../../files/CV-Daniel%20Gola-Junior-React-Developer.pdf" download target="_blank">
+          <a className={classes.Redirect} href="../../files/CV-Daniel%20Gola-Junior-React-Developer.pdf" download target="_blank">
             <Button variant="contained" color="secondary">DOWNLOAD MY CURRICULUM VITAE</Button>
           </a>
         </div>

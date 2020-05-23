@@ -2,43 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="986c21b6-ccbd-4687-a2ec-c3309ff0f1ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/CurrencyAPP.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/MoviesAPP.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/bg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/deer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/fitbookAPP.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/iplantsAPP.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/unityAPP.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomSwiper/CustomSwiper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomSwiper/CustomSwiper.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomSwiper/Slide/SwiperSlide.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/DateTime/DateTime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/DateTime/DateTime.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/DescriptionContainer/DescriptionContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/DescriptionContainer/DescriptionContainer.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MirrorContainer/MirrorContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MirrorContainer/MirrorContainer.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/files/CV-Daniel Gola-Junior-React-Developer.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/files/List-Motywacyjny.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigation/Navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/Navigation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigation/Navigation.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/Navigation.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigation/NavigationItem/NavigationItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItem/NavigationItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigation/NavigationItem/NavigationItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItem/NavigationItem.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sections/AboutMe/AboutMe.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/AboutMe/AboutMe.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sections/AboutMe/AboutMe.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/AboutMe/AboutMe.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sections/Contact/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Contact/Contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sections/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Home/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sections/Home/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Home/Home.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sections/Portfolio/Portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Portfolio/Portfolio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sections/Portfolio/Portfolio.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Portfolio/Portfolio.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CustomSwiper/CustomSwiper.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CustomSwiper/CustomSwiper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CustomSwiper/CustomSwiper.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CustomSwiper/CustomSwiper.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CustomSwiper/Slide/SwiperSlide.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CustomSwiper/Slide/SwiperSlide.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/DescriptionContainer/DescriptionContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DescriptionContainer/DescriptionContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/DescriptionContainer/DescriptionContainer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DescriptionContainer/DescriptionContainer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MirrorContainer/MirrorContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MirrorContainer/MirrorContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MirrorContainer/MirrorContainer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MirrorContainer/MirrorContainer.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +79,7 @@
       <workItem from="1589964058827" duration="9784000" />
       <workItem from="1589976101196" duration="135000" />
       <workItem from="1590066301034" duration="14381000" />
-      <workItem from="1590223788613" duration="1595000" />
+      <workItem from="1590223788613" duration="3847000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1589550457877</created>
@@ -130,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589559229564</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update section pages, added css and href's">
+      <created>1590225492486</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590225492486</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,25 +119,30 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="added a structure of the project" />
     <MESSAGE value="added smooth scroll navigation in project" />
-    <option name="LAST_COMMIT_MESSAGE" value="added smooth scroll navigation in project" />
+    <MESSAGE value="update section pages, added css and href's" />
+    <option name="LAST_COMMIT_MESSAGE" value="update section pages, added css and href's" />
   </component>
   <component name="WindowStateProjectService">
     <state x="691" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590072326799">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
     <state x="691" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3840.1040@0.0.3840.1040" timestamp="1590072326799" />
-    <state x="501" y="37" key="CommitChangelistDialog2" timestamp="1589559228973">
+    <state x="501" y="37" key="CommitChangelistDialog2" timestamp="1590225491678">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
-    <state x="501" y="37" key="CommitChangelistDialog2/0.0.3840.1040@0.0.3840.1040" timestamp="1589559228973" />
+    <state x="501" y="37" key="CommitChangelistDialog2/0.0.3840.1040@0.0.3840.1040" timestamp="1590225491678" />
     <state x="462" y="162" key="SettingsEditor" timestamp="1590067301659">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
     <state x="462" y="162" key="SettingsEditor/0.0.3840.1040@0.0.3840.1040" timestamp="1590067301659" />
-    <state x="470" y="256" key="Vcs.Push.Dialog.v2" timestamp="1589559235063">
+    <state x="470" y="256" key="Vcs.Push.Dialog.v2" timestamp="1590225498838">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
-    <state x="470" y="256" key="Vcs.Push.Dialog.v2/0.0.3840.1040@0.0.3840.1040" timestamp="1589559235063" />
+    <state x="470" y="256" key="Vcs.Push.Dialog.v2/0.0.3840.1040@0.0.3840.1040" timestamp="1590225498838" />
+    <state x="1918" y="0" width="1922" height="1039" key="dock-window-1" timestamp="1590225555512">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state x="1918" y="0" width="1922" height="1039" key="dock-window-1/0.0.3840.1040@0.0.3840.1040" timestamp="1590225555512" />
     <state x="621" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1590225051335">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>

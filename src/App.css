@@ -76,33 +76,6 @@
     backdrop-filter: blur(4px) saturate(30%);
     box-shadow: 0 0 5px 5px black;
 }
-.download {
-    text-decoration: none;
-}
-
-.button-link {
-    background: #e43f5a;
-    width: 125px;
-    height: 40px;
-    align-items: center;
-    text-align: center;
-    border-radius: 5px;
-    color: white;
-    justify-content: center;
-    display: flex;
-    box-shadow: 0 4px 5px rgba(0,0,0, .3);
-    font-size: 13px;
-}
-.button-container {
-    display: flex;
-    align-items: center;
-    font-family: "Russo One";
-    justify-content: center;
-}
-.button-link:hover {
-    cursor: pointer;
-    box-shadow: 0 5px 5px rgba(0,0,0, .5);
-}
 .link {
     margin-left: 25px;
     color: white;
